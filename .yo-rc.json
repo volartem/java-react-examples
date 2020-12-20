@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "art.dev",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "examples",
+    "packageName": "art.dev",
+    "packageFolder": "art/dev",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTNlYjZhMDNjMWM5ZjljNTZiNTFjYTc5NGExYmE3ZDg3YTQwZjEzMDNlNDRkZDYxYjQyMTZjMmM3ZjYyYWE0MmUwYzNlNzU3ZjA3NmI4NDQ3ODJhODM0ZTk4N2EyZmY4OTg1ZjU4Y2NmMzllZWNkZTUxNDUyZDczM2U3NGZjYWM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "spacelab",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1608498631851,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ro", "ua"],
+    "blueprints": []
+  }
+}
