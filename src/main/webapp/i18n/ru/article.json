@@ -1,0 +1,28 @@
+{
+  "examplesApp": {
+    "article": {
+      "home": {
+        "title": "Articles",
+        "createLabel": "Создать новую Article",
+        "createOrEditLabel": "Создать или редактировать Article",
+        "notFound": "No Articles found"
+      },
+      "created": "Новая Article создана с идентификатором {{ param }}",
+      "updated": "Article обновлена с идентификатором {{ param }}",
+      "deleted": "Article удалена с идентификатором {{ param }}",
+      "delete": {
+        "question": "Ви уверены, что хотите удалить Article {{ id }}?"
+      },
+      "detail": {
+        "title": "Article"
+      },
+      "createdDate": "Created Date",
+      "lastModifiedDate": "Last Modified Date",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "text": "Text",
+      "published": "Published",
+      "author": "Author"
+    }
+  }
+}

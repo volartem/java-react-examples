@@ -93,8 +93,8 @@ module.exports = webpackMerge(commonConfig({ env: ENV }), {
     new MomentLocalesPlugin({
       localesToKeep: [
         'en',
-        'ro',
-        'uk'
+        'uk',
+        'ru'
         // jhipster-needle-i18n-language-moment-webpack - JHipster will add/remove languages in this array
       ]
     }),
