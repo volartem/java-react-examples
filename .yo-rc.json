@@ -38,6 +38,9 @@
     "nativeLanguage": "en",
     "languages": ["en", "ro", "ua", "ru"],
     "blueprints": [],
-    "lastLiquibaseTimestamp": 1608500391000
+    "lastLiquibaseTimestamp": 1608500391000,
+    "herokuAppName": "java-vue-example",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11"
   }
 }
