@@ -12,7 +12,7 @@
 
 eureka:
   instance:
-    hostname: java-vue-example.herokuapp.com
+    hostname: java-react-example.herokuapp.com
     non-secure-port: ${PORT}
     prefer-ip-address: false
   client:
