@@ -39,7 +39,7 @@
     "languages": ["en", "ro", "ua", "ru"],
     "blueprints": [],
     "lastLiquibaseTimestamp": 1608500391000,
-    "herokuAppName": "java-vue-example",
+    "herokuAppName": "java-react-example",
     "herokuDeployType": "jar",
     "herokuJavaVersion": "11"
   }
