@@ -1,6 +1,14 @@
-# examples
+# spring react example
+
+Application available at [heroku](https://java-react-example.herokuapp.com/).
 
 This application was generated using JHipster 6.10.5, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.10.5](https://www.jhipster.tech/documentation-archive/v6.10.5).
+
+## Make deploy to heroku
+
+1 `./mvnw package -Pprod,swagger -DskipTests`
+
+2 `heroku deploy:jar --jar target/*.jar`
 
 ## Development
 
